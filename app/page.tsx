@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <main className="">
-      Hello World
-    </main>
-  )
-}
+    <section className="py-5 container mx-auto">
+      <span>Hello World</span>
+    </section>
+  );
+};
