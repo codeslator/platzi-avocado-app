@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <section className="py-5 container mx-auto">
+    <section className="">
       <span>Hello World</span>
     </section>
   );
